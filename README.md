@@ -17,7 +17,8 @@ room information and user statuses.
 Summarization Feature: Designing a functionality within the server to summarize the 
 discussions that occur during each chat session. The summarization process analyzes the 
 exchanged messages and generates a concise overview or recap of the key points discussed.
- By addressing these requirements, the goal is to develop a robust and feature-rich chat 
+
+By addressing these requirements, the goal is to develop a robust and feature-rich chat 
 application that enables seamless communication among multiple clients while providing a 
 summarization feature to capture the essence of the discussions held during each chat 
 session
