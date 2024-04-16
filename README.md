@@ -4,6 +4,7 @@ The application comprises a server component responsible for managing the commun
 among clients and summarizing the discussions after each chat session.
 
 Key Requirements:
+
 Chat Application: Developing a user-friendly chat interface allowing multiple clients to 
 exchange messages in real time. The interface supports basic features such as 
 sending/receiving messages, creating chat room, and managing user connections.
