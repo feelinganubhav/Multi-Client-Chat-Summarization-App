@@ -2,6 +2,7 @@
 It is a chat application capable of accommodating multiple clients simultaneously. 
 The application comprises a server component responsible for managing the communication 
 among clients and summarizing the discussions after each chat session.
+
 Key Requirements:
 Chat Application: Developing a user-friendly chat interface allowing multiple clients to 
 exchange messages in real time. The interface supports basic features such as 
